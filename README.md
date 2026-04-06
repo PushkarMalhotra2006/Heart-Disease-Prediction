@@ -2,7 +2,8 @@
 
 
 
-Predicts a person have risk of a Heart Disease or not
+Predicts a person have risk of a Heart Disease ❤️ or not
 
-This project was created while learning Machine Learning concepts.
-It covers basic preprocessing, model training, and evaluation.
+Live Demo 🚀 -
+
+https://predict-risks-of-heart-disease.streamlit.app/
